@@ -180,6 +180,7 @@ def perform_ml_analysis(train_data, test_data, out_path):
 
     cross_val_results = {}
     for model in models:
+        print('Analyzing', model)
         cross_val_results[model] = mean_std_cross_val_scores(
             make_pipeline(preprocessor, models[model]),
             X_train,
