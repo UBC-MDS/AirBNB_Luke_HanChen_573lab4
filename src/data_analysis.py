@@ -311,5 +311,5 @@ if __name__ == "__main__":
     perform_ml_analysis(train_data, test_data, out_path)
 
     # Tests that the files are generated as expected
-    assert os.path.exists("./results/model/feature_Importance.csv")
-    assert os.path.exists("./results/model/model_selection.csv")
+    assert os.path.exists("./results/models/feature_Importance.csv")
+    assert os.path.exists("./results/models/model_selection.csv")

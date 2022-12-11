@@ -1,4 +1,4 @@
-# AirBnB Analyze
+# AirBnB Analyzer
 
 ## Report
 

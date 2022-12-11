@@ -1,0 +1,264 @@
+,Feature,Feature Importance
+5,days_from_last_review,31.728355185013317
+2,number_of_reviews,22.841847282729578
+1,minimum_nights,14.138551392298401
+4,availability_365,9.038644392246269
+0,price,4.251805915153445
+3,calculated_host_listings_count,2.2148451257345263
+201,room_type_Private room,1.2221766383602908
+175,neighbourhood_Theater District,1.008163638801477
+200,room_type_Entire home/apt,0.8941489632673257
+9,neighbourhood_group_Queens,0.807950831915998
+238,longitude_5.0,0.7830410669782433
+8,neighbourhood_group_Manhattan,0.5857588831366981
+7,neighbourhood_group_Brooklyn,0.5064160697862135
+262,longitude_29.0,0.4219897344234992
+63,neighbourhood_East Elmhurst,0.42059665690663134
+224,latitude_21.0,0.3849750699062433
+95,neighbourhood_Hell's Kitchen,0.37887496168013796
+225,latitude_22.0,0.36996762224883073
+101,neighbourhood_Jamaica,0.33969353739853536
+257,longitude_24.0,0.3057570345317053
+226,latitude_23.0,0.27818371461576624
+206,latitude_3.0,0.272299105842561
+120,neighbourhood_Midtown,0.25795983599139677
+64,neighbourhood_East Flatbush,0.22888718189517407
+227,latitude_24.0,0.2122614219647984
+148,neighbourhood_Queens Village,0.20670886322641052
+22,neighbourhood_Bedford-Stuyvesant,0.19519051108634342
+216,latitude_13.0,0.182063948162498
+222,latitude_19.0,0.1779408973484267
+237,longitude_4.0,0.16412157909905628
+223,latitude_20.0,0.1616319210632241
+260,longitude_27.0,0.15259959306465823
+250,longitude_17.0,0.1521815070031868
+261,longitude_28.0,0.1434540795548335
+247,longitude_14.0,0.14329791433786015
+207,latitude_4.0,0.1309918314616959
+213,latitude_10.0,0.13054503467067619
+203,latitude_0.0,0.1264328553654652
+94,neighbourhood_Harlem,0.12183645323506447
+182,neighbourhood_Two Bridges,0.11931094922070608
+240,longitude_7.0,0.11100488086635804
+195,neighbourhood_Williamsburg,0.11014695763272035
+258,longitude_25.0,0.10266200262909808
+202,room_type_Shared room,0.10243076327361193
+214,latitude_11.0,0.10231650429652393
+55,neighbourhood_Crown Heights,0.09626071098092302
+114,neighbourhood_Lower East Side,0.08959917037189215
+168,neighbourhood_Springfield Gardens,0.08846410206638498
+253,longitude_20.0,0.08281013019103044
+211,latitude_8.0,0.08259224894130754
+218,latitude_15.0,0.07924652450796317
+35,neighbourhood_Bushwick,0.07534117411663226
+205,latitude_2.0,0.07057557821840833
+72,neighbourhood_Elmhurst,0.06991392986683975
+249,longitude_16.0,0.06927586899226909
+153,neighbourhood_Ridgewood,0.06899075112103221
+217,latitude_14.0,0.06650058342854404
+37,neighbourhood_Canarsie,0.06484674094413378
+236,longitude_3.0,0.06418679466627696
+108,neighbourhood_Kips Bay,0.06253260787326449
+82,neighbourhood_Fort Greene,0.06206302076827353
+229,latitude_26.0,0.055109379403012804
+6,neighbourhood_group_Bronx,0.05451831044883146
+239,longitude_6.0,0.054397107495092877
+242,longitude_9.0,0.0517076632748198
+210,latitude_7.0,0.049664295656735954
+241,longitude_8.0,0.04911674262839723
+172,neighbourhood_Stuyvesant Town,0.04800057661469103
+199,neighbourhood_Woodside,0.04754424119477094
+244,longitude_11.0,0.047501899544216956
+234,longitude_1.0,0.046858239095156955
+117,neighbourhood_Maspeth,0.04662314431238678
+65,neighbourhood_East Harlem,0.04479281573932505
+24,neighbourhood_Bensonhurst,0.043791988383007414
+39,neighbourhood_Chelsea,0.04352738161454548
+68,neighbourhood_East Village,0.043162390484534144
+46,neighbourhood_Clinton Hill,0.04105183765421156
+246,longitude_13.0,0.04014717527720519
+86,neighbourhood_Gowanus,0.03771892368168475
+254,longitude_21.0,0.037325113631145136
+166,neighbourhood_South Ozone Park,0.037165511125003235
+21,neighbourhood_Bayswater,0.03611325119535244
+191,neighbourhood_West Village,0.0357057716983419
+221,latitude_18.0,0.03531705244864657
+215,latitude_12.0,0.034876832940838716
+245,longitude_12.0,0.03399649077766763
+18,neighbourhood_Bay Ridge,0.03316984522618824
+75,neighbourhood_Financial District,0.03272253656113532
+233,longitude_0.0,0.03232665844305682
+185,neighbourhood_Upper East Side,0.03138247719400606
+231,latitude_28.0,0.03055200718558728
+14,neighbourhood_Arverne,0.030393848564209798
+220,latitude_17.0,0.029456120553776645
+67,neighbourhood_East New York,0.029058381355909654
+259,longitude_26.0,0.027124184002366165
+173,neighbourhood_Sunnyside,0.02670146870255963
+235,longitude_2.0,0.024685032186112274
+73,neighbourhood_Far Rockaway,0.02410663733701652
+47,neighbourhood_Cobble Hill,0.02394230901751681
+40,neighbourhood_Chinatown,0.0236456558001509
+219,latitude_16.0,0.02285456336867861
+100,neighbourhood_Jackson Heights,0.02254925080360339
+54,neighbourhood_Corona,0.020414749188028335
+167,neighbourhood_South Slope,0.020389182013989385
+32,neighbourhood_Brooklyn Heights,0.01926934972477291
+204,latitude_1.0,0.019164319408111696
+84,neighbourhood_Fresh Meadows,0.019129999825959334
+150,neighbourhood_Red Hook,0.01912373943373803
+76,neighbourhood_Flatbush,0.019113576566561263
+103,neighbourhood_Jamaica Hills,0.016603624111834647
+209,latitude_6.0,0.01579889380118318
+109,neighbourhood_Laurelton,0.0154575368878151
+255,longitude_22.0,0.015304857398226528
+97,neighbourhood_Hollis,0.014620792760125501
+10,neighbourhood_group_Staten Island,0.012810432878969566
+164,neighbourhood_Soundview,0.01262687909625978
+248,longitude_15.0,0.012600115400620613
+251,longitude_18.0,0.012371595581274375
+198,neighbourhood_Woodlawn,0.012191199088432787
+133,neighbourhood_Nolita,0.012146507427097367
+190,neighbourhood_Washington Heights,0.011997273488929037
+189,neighbourhood_Wakefield,0.011488022888885095
+27,neighbourhood_Borough Park,0.011235183458279882
+230,latitude_27.0,0.01113022033035646
+140,neighbourhood_Parkchester,0.009986314696727732
+147,neighbourhood_Prospect-Lefferts Gardens,0.00937979893578831
+78,neighbourhood_Flatlands,0.009277942461663115
+58,neighbourhood_Ditmars Steinway,0.009101267555168213
+155,neighbourhood_Rockaway Beach,0.009095599500653605
+157,neighbourhood_Rosebank,0.00868754467145839
+146,neighbourhood_Prospect Heights,0.007994512837605723
+163,neighbourhood_SoHo,0.007524340950746278
+256,longitude_23.0,0.007031644486675321
+243,longitude_10.0,0.006156770416680641
+79,neighbourhood_Flushing,0.006022435612129383
+186,neighbourhood_Upper West Side,0.006018038946588855
+252,longitude_19.0,0.005998320136580952
+71,neighbourhood_Edgemere,0.005639065360177243
+149,neighbourhood_Randall Manor,0.005455502569056769
+135,neighbourhood_Norwood,0.005393521320294672
+20,neighbourhood_Bayside,0.00535746919343168
+232,latitude_29.0,0.005143243526397667
+212,latitude_9.0,0.005095227061426717
+88,neighbourhood_Grant City,0.004333279107954566
+138,neighbourhood_Ozone Park,0.0036470117852296143
+188,neighbourhood_Vinegar Hill,0.003631370042524784
+124,neighbourhood_Morrisania,0.0035570390476016263
+208,latitude_5.0,0.003217123408958312
+151,neighbourhood_Rego Park,0.003015007244840862
+15,neighbourhood_Astoria,0.0028659041500916993
+181,neighbourhood_Tribeca,0.002788230131066291
+132,neighbourhood_NoHo,0.0026881817152280734
+52,neighbourhood_Concourse Village,0.0026252384316453035
+183,neighbourhood_Unionport,0.0025418031319210123
+122,neighbourhood_Morningside Heights,0.002462411682814748
+169,neighbourhood_St. Albans,0.0024562181736493723
+119,neighbourhood_Middle Village,0.002372682045213229
+107,neighbourhood_Kingsbridge,0.0023554718030954123
+174,neighbourhood_Sunset Park,0.0021861289279510947
+90,neighbourhood_Great Kills,0.002179252769151835
+11,neighbourhood_Allerton,0.001984104156838123
+83,neighbourhood_Fort Hamilton,0.0019476050598419275
+139,neighbourhood_Park Slope,0.0019179219145203125
+91,neighbourhood_Greenpoint,0.0018394607157457372
+23,neighbourhood_Belmont,0.0016954094386180168
+184,neighbourhood_University Heights,0.0013509472844269459
+137,neighbourhood_Olinville,0.0012303225847282513
+194,neighbourhood_Williamsbridge,0.0011755400735746879
+38,neighbourhood_Carroll Gardens,0.0007707501457845864
+44,neighbourhood_Clason Point,0.0006321575349769092
+192,neighbourhood_Westchester Square,0.0006310323182625334
+128,neighbourhood_Navy Yard,0.0006013664628448512
+102,neighbourhood_Jamaica Estates,0.0004837604236825741
+179,neighbourhood_Tottenville,0.00045702301872516164
+171,neighbourhood_Stapleton,0.00024838709774769544
+29,neighbourhood_Briarwood,0.00019646605722907642
+196,neighbourhood_Windsor Terrace,0.00017483981010354003
+178,neighbourhood_Tompkinsville,0.00016990299648936906
+143,neighbourhood_Port Morris,0.00016383495796977386
+53,neighbourhood_Coney Island,0.00014218658290238048
+105,neighbourhood_Kew Gardens,8.47336052603649e-05
+28,neighbourhood_Breezy Point,7.746866977132393e-05
+142,neighbourhood_Pelham Gardens,7.226973658797797e-05
+162,neighbourhood_Shore Acres,2.0446137234623273e-05
+66,neighbourhood_East Morrisania,1.785916127821549e-05
+25,neighbourhood_Bergen Beach,6.773913777304431e-06
+134,neighbourhood_North Riverdale,6.4716258403596965e-06
+165,neighbourhood_South Beach,4.989015106699409e-06
+45,neighbourhood_Clifton,1.6458002553473792e-06
+50,neighbourhood_Concord,0.0
+33,neighbourhood_Brownsville,0.0
+16,neighbourhood_Bath Beach,0.0
+17,neighbourhood_Battery Park City,0.0
+81,neighbourhood_Forest Hills,0.0
+80,neighbourhood_Fordham,0.0
+77,neighbourhood_Flatiron District,0.0
+74,neighbourhood_Fieldston,0.0
+70,neighbourhood_Edenwald,0.0
+19,neighbourhood_Baychester,0.0
+228,latitude_25.0,0.0
+26,neighbourhood_Boerum Hill,0.0
+30,neighbourhood_Brighton Beach,0.0
+69,neighbourhood_Eastchester,0.0
+31,neighbourhood_Bronxdale,0.0
+62,neighbourhood_Dyker Heights,0.0
+49,neighbourhood_Columbia St,0.0
+61,neighbourhood_Downtown Brooklyn,0.0
+60,neighbourhood_Douglaston,0.0
+59,neighbourhood_Dongan Hills,0.0
+34,neighbourhood_Bull's Head,0.0
+57,neighbourhood_DUMBO,0.0
+56,neighbourhood_Cypress Hills,0.0
+36,neighbourhood_Cambria Heights,0.0
+41,neighbourhood_City Island,0.0
+42,neighbourhood_Civic Center,0.0
+43,neighbourhood_Claremont Village,0.0
+85,neighbourhood_Glendale,0.0
+48,neighbourhood_College Point,0.0
+51,neighbourhood_Concourse,0.0
+145,neighbourhood_Prince's Bay,0.0
+111,neighbourhood_Little Neck,0.0
+87,neighbourhood_Gramercy,0.0
+13,neighbourhood_Arrochar,0.0
+180,neighbourhood_Tremont,0.0
+177,neighbourhood_Todt Hill,0.0
+176,neighbourhood_Throgs Neck,0.0
+12,neighbourhood_Arden Heights,0.0
+127,neighbourhood_Murray Hill,0.0
+170,neighbourhood_St. George,0.0
+129,neighbourhood_Neponsit,0.0
+130,neighbourhood_New Brighton,0.0
+161,neighbourhood_Sheepshead Bay,0.0
+89,neighbourhood_Gravesend,0.0
+160,neighbourhood_Sea Gate,0.0
+159,neighbourhood_Schuylerville,0.0
+158,neighbourhood_Rosedale,0.0
+136,neighbourhood_Oakwood,0.0
+156,neighbourhood_Roosevelt Island,0.0
+154,neighbourhood_Riverdale,0.0
+152,neighbourhood_Richmond Hill,0.0
+141,neighbourhood_Pelham Bay,0.0
+126,neighbourhood_Mount Hope,0.0
+125,neighbourhood_Mott Haven,0.0
+187,neighbourhood_Van Nest,0.0
+123,neighbourhood_Morris Park,0.0
+92,neighbourhood_Greenwich Village,0.0
+93,neighbourhood_Grymes Hill,0.0
+96,neighbourhood_Highbridge,0.0
+98,neighbourhood_Hunts Point,0.0
+99,neighbourhood_Inwood,0.0
+104,neighbourhood_Kensington,0.0
+106,neighbourhood_Kew Gardens Hills,0.0
+110,neighbourhood_Little Italy,0.0
+144,neighbourhood_Port Richmond,0.0
+112,neighbourhood_Long Island City,0.0
+113,neighbourhood_Longwood,0.0
+115,neighbourhood_Manhattan Beach,0.0
+116,neighbourhood_Marble Hill,0.0
+118,neighbourhood_Melrose,0.0
+197,neighbourhood_Woodhaven,0.0
+193,neighbourhood_Whitestone,0.0
+121,neighbourhood_Midwood,0.0
+131,neighbourhood_New Springville,0.0
